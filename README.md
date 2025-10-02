@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently working on my Computer Science degree at the University of Bari Aldo Moro.<br>🤝 I'm looking to collaborate on video game projects or applications for a wide audience.<br>🙌 I'm not currently looking for help, but I’d love to grow into the world of game development.<br>📖 I'm currently learning Unity and studying Artificial Intelligence at university.<br>💡 Ask me about game development, Unity, or the basics of Artificial Intelligence.<br>🎮 Fun fact: I created a video game as my bachelor’s thesis.
+🌱 I'm currently working on my Master's Degree in Computer Science at the University of Bari Aldo Moro.<br>🤝 I'm looking to collaborate on video game projects or applications for a wide audience.<br>🙌 I'm not currently looking for help, but I’d love to grow into the world of game development.<br>📖 I'm currently learning Unity and studying Artificial Intelligence at university.<br>💡 Ask me about game development, Unity, or the basics of Artificial Intelligence.<br>🎮 Fun fact: I created a video game as my bachelor’s thesis.
 
 
 ## 🌐 Socials:
